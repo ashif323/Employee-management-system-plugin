@@ -21,8 +21,7 @@ A custom WordPress plugin to manage employee data with CRUD operations, search f
 3. Activate it from the WordPress admin dashboard  
 
 ## 📷 Screenshots  
-<img width="201" height="534" alt="image" src="https://github.com/user-attachments/assets/7f60750f-a333-429b-9795-526ea8dbbe12" />
-<img width="1467" height="909" alt="image" src="https://github.com/user-attachments/assets/c655c3f9-1cb2-4a3a-8e1a-92493ba5a555" />
+<img width="201" height="534" alt="image" src="https://github.com/user-attachments/assets/7f60750f-a333-429b-9795-526ea8dbbe12" /><img width="1467" height="909" alt="image" src="https://github.com/user-attachments/assets/c655c3f9-1cb2-4a3a-8e1a-92493ba5a555" />
 <img width="1608" height="476" alt="image" src="https://github.com/user-attachments/assets/d282c015-85b2-4b70-9048-246edc947e1e" />
 
 
