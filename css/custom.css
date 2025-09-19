@@ -1,0 +1,9 @@
+#ems-frm-add-employee label.error {
+    color: red;
+}
+
+/* Ensure buttons are inline in action column (backup) */
+.table td .btn {
+    display: inline-block;
+    margin-right: 6px;
+}
